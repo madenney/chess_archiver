@@ -1,0 +1,570 @@
+[Event "Match"]
+[Site "Schagen (Netherlands)"]
+[Date "2006.04.29"]
+[Round "2"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Van Wely Loek (NED)"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2646"]
+[BlackElo "2655"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Bd3 Nf6 7.O-O
+Bc5 8.Nb3 Be7 9.f4 d6 10.a4 Nc6 11.a5 b5 12.axb6 Qxb6+ 13.Kh1
+O-O 14.Qe2 a5 15.Be3 Qc7 16.Nb5 Qb8 17.c3 d5 18.e5 Ne4 19.Bxe4
+dxe4 20.Nc5 Bxc5 21.Bxc5 Ba6 22.c4 Rd8 23.Nd6 f5 24.exf6 Rxd6
+25.Qxe4 Bb7 26.Bxd6 Qxd6 27.Rad1 Nd8 28.f7+ Kxf7 29.Qxh7 Qc6
+30.Rf2 Qe4 31.f5 e5 32.Rfd2 Bc6 33.Qg6+ Ke7 34.Rd7+ 1-0
+
+
+[Event "Match (blitz)"]
+[Site "Schagen (Netherlands)"]
+[Date "2006.05.01"]
+[Round "6"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Van Wely Loek (NED)"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2646"]
+[BlackElo "2655"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.b3 c5 2.e4 e6 3.Nf3 d5 4.exd5 exd5 5.Bb5+ Bd7 6.Bxd7+ Nxd7
+7.O-O Bd6 8.d4 Ne7 9.Nc3 O-O 10.dxc5 Nxc5 11.Bg5 f6 12.Be3 Ne4
+13.Nb5 Bb8 14.Nfd4 a6 15.Ne6 Qc8 16.Nbd4 Rf7 17.f3 Nc3 18.Qd3
+Be5 19.a4 Qd7 20.Nc5 Qc7 21.Qxc3 b6 22.Ne4 Bxh2+ 23.Kh1 dxe4
+24.Qxc7 Bxc7 25.fxe4 Be5 26.Rad1 Rc8 27.c4 h5 28.Nf3 Bc7 29.Rd3
+Nc6 30.Rd5 Re8 31.Rxh5 Rxe4 32.Bf2 Na5 33.c5 b5 34.axb5 axb5
+35.c6 Nxb3 36.Rxb5 Rc4 37.Rxb3 Rxc6 38.Nd4 Rc4 39.Rh3 Rd7 40.Nf5
+Kf7 41.Re1 Rf4 42.Rf3 Rxf3 43.gxf3 g6 44.Ng3 Rd2 45.Ne4 Rc2 46.Bd4
+Bd8 47.Rd1 f5 48.Nf2 Bh4 49.Nd3 g5 50.Be3 Rc3 51.Kg2 g4 52.f4
+Bf6 53.Bf2 Rc2 54.Nb4 Rb2 55.Nd3 Ra2 56.Kg3 Ra3 57.Rd2 Bc3 58.Rd1
+Bf6 59.Kg2 Ra2 60.Kf1 Ke6 61.Nc5+ Kf7 62.Rd7+ Kg6 63.Ne6 Ra6
+64.Nf8+ 1-0
+
+
+[Event "Match (blitz)"]
+[Site "Schagen (Netherlands)"]
+[Date "2006.05.01"]
+[Round "8"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Van Wely Loek (NED)"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2646"]
+[BlackElo "2655"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.g3 b5 7.Bg2
+Bb7 8.O-O Be7 9.Re1 d6 10.a4 bxa4 11.Rxa4 Nd7 12.Qg4 h5 13.Nxe6
+Qxc3 14.bxc3 hxg4 15.Nc7+ Kd8 16.Nxa8 Bxa8 17.Rxa6 Bb7 18.Ra7
+Bc8 19.e5 Nxe5 20.Be3 Nd7 21.Ra8 Ngf6 22.Rea1 d5 23.R1a7 Bd6
+24.c4 Bc7 25.cxd5 Re8 26.c4 Rxe3 27.fxe3 Bb6 28.Ra3 Ne8 29.Rb3
+Kc7 30.Rxb6 Nxb6 31.Ra7+ Kd6 32.Rxf7 Nxc4 33.e4 Ne5 34.Rf1 Nf6 1-0
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.05.27"]
+[Round "6"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Prasca Raphael (VEN)"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2646"]
+[BlackElo "2448"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4
+8.Nxd4 Bc5 9.Qd2 Nxd4 10.Bxd4 Bxd4 11.Qxd4 Qb6 12.Qd2 Qxb2 13.Rb1
+Qa3 14.Nb5 Qxa2 15.Nd6+ Ke7 16.Rc1 b6 17.Be2 Qa5 18.c3 f5 19.O-O
+Qc5+ 20.Kh1 Nf8 21.g4 Bd7 22.gxf5 exf5 23.Bf3 Ng6 24.c4 d4 25.Nb7
+Qa3 26.Qxd4 Be6 27.Ra1 Qb3 28.Qd6+ Kf7 29.Bd5 Bxd5+ 30.Qxd5+
+Ke7 31.Qd6+ Ke8 32.Qe6+ Ne7 33.Nd6+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.05.28"]
+[Round "7"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Adams Michael (ENG)"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2646"]
+[BlackElo "2720"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Bg2 d5 6.d4 dxc4 7.O-O
+Nc6 8.a3 Bxc3 9.bxc3 Rb8 10.Bg5 b5 11.e4 h6 12.Bh4 e5 13.Nxe5
+Nxe5 14.dxe5 Qxd1 15.Rfxd1 Nd7 16.f4 Re8 17.e6 fxe6 18.e5 Nxe5
+19.Bd8 Nd3 20.Bxc7 Rb7 21.Bxb7 Bxb7 22.a4 bxa4 23.Rdb1 Bc6 24.Rb8
+Kf7 25.Rxe8 Kxe8 26.Bd6 a6 27.Rb1 h5 28.Rb6 Kd7 29.Bf8 g6 30.Rxa6
+e5 31.fxe5 Nxe5 32.h4 Ng4 33.Bg7 Kc7 34.Bd4 Nh6 35.Kf2 Nf5 36.Bc5
+Kd7 37.Bb4 Kc7 38.Ra7+ Kb6 39.Rf7 Nh6 40.Re7 Bd5 41.Rd7 Ng4+
+42.Ke2 Be4 43.Rd4 Bd3+ 44.Kf3 Nh2+ 45.Kf4 Nf1 46.Rd6+ Kb5 47.Rd5+
+Kb6 48.Ra5 Bc2 49.Re5 Bd3 50.Kf3 Nd2+ 51.Kf4 Nf1 52.g4 hxg4 53.Kxg4
+Nd2 54.Kf4 Nb3 55.Re6+ Kb5 56.Re8 Nc1 57.Rb8+ Kc6 58.Ra8 Ne2+
+59.Kf3 Ng1+ 60.Ke3 Ne2 61.Rxa4 Kd5 62.Ra5+ Ke6 63.Ra2 Ng3 64.Kf4
+Nf5 65.Ra6+ Kf7 66.Kg5 Ng3 67.Ra7+ Kg8 68.Kf6 Nh5+ 69.Ke5 Ng3
+70.Bc5 Nf5 71.Bf2 Nh6 72.Bd4 Nf5 73.Kf6 1-0
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.06.02"]
+[Round "11"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Granda Zuniga Julio E (PER)"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2646"]
+[BlackElo "2631"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be7 8.Be2 O-O 9.O-O Nbd7 10.a4 b6 11.f3 Bb7 12.Rf2 Qc7 13.Bf1
+Rfb8 14.Nc1 Nc5 15.Rd2 Ne6 16.N1a2 Nd4 17.Nb4 Rd8 18.Kh1 a5 19.Nd3
+Ne6 20.Nf2 Nd7 21.Nb5 Qb8 22.Nxd6 1-0
+
+
+[Event "Ch Norway (team) (open)"]
+[Site "Oslo (Norway)"]
+[Date "2006.06.09"]
+[Round "3"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Leer-Salvesen Bjarte (NOR)"]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "2646"]
+[BlackElo "2372"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.c4 d5 3.Nf3 c6 4.Qc2 Nf6 5.Nbd2 Nbd7 6.g3 Be7 7.Bg2
+O-O 8.O-O b6 9.e4 Bb7 10.e5 Ne8 11.cxd5 cxd5 12.Re1 Rc8 13.Qa4
+a5 14.Nf1 Ba6 15.Qd1 b5 16.h4 b4 17.Ng5 Qc7 18.Ne3 Bxg5 19.hxg5
+Qb6 20.Bf1 Bxf1 21.Kxf1 f5 22.exf6 gxf6 23.Ng4 Rc4 24.Be3 fxg5
+25.Kg2 e5 26.b3 Rc3 27.dxe5 d4 28.Bxd4 Qc6+ 29.Kg1 Rcf3 30.e6
+Ndf6 31.Ne5 1-0
+
+
+[Event "It (open) \"Midnight Sun\""]
+[Site "Tromsoe (Norway)"]
+[Date "2006.06.26"]
+[Round "3"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Dworakowska Joanna (POL)"]
+[Result "1-0"]
+[ECO "B91"]
+[WhiteElo "2675"]
+[BlackElo "2359"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3
+Nbd7 8.a4 b6 9.Bg2 Bb7 10.O-O Be7 11.Re1 O-O 12.Nd2 Nc5 13.Nf1
+b5 14.Bg5 b4 15.Bxf6 bxc3 16.Bxe7 Qxe7 17.b4 Ne6 18.Ne3 Nd4 19.Qd3
+Rac8 20.b5 axb5 21.axb5 Rc5 22.b6 Rb8 23.Reb1 Bc6 24.Nf5 Nxf5
+25.exf5 e4 26.Qd4 h5 27.h4 Qe5 28.Qxe5 Rxe5 29.Ra7 Bb7 30.Rb4
+d5 31.Bh3 Ree8 32.Kf1 Rec8 33.Ke2 Rc6 34.Ke3 Kf8 35.Bf1 Ke7 36.Ba6
+Kd6 37.Rxb7 Ra8 38.Bb5 Rcc8 39.Kd4 1-0
+
+
+[Event "It (open) \"Midnight Sun\""]
+[Site "Tromsoe (Norway)"]
+[Date "2006.07.02"]
+[Round "9"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Hammer Jon Ludvig (NOR)"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2675"]
+[BlackElo "2306"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 b6 5.Bg2 Bb7 6.O-O O-O 7.d3
+d5 8.cxd5 exd5 9.Bf4 Bd6 10.Bxd6 Qxd6 11.d4 c6 12.Ne5 Nbd7 13.f4
+Qe7 14.e3 Ne8 15.e4 dxe4 16.Bxe4 Nxe5 17.dxe5 Nc7 18.Qh5 g6 19.Qh6
+f6 20.f5 Qg7 21.Qxg7+ Kxg7 22.Rad1 Nd5 23.Nxd5 cxd5 24.Bxd5 Bxd5
+25.Rxd5 gxf5 26.Rxf5 fxe5 27.Rd7+ Kg6 28.Rxe5 Rf7 29.Re6+ Kg7
+30.Ree7 Rxe7 31.Rxe7+ Kg6 32.b3 Rc8 33.Rxa7 Rc1+ 34.Kg2 Rc2+
+35.Kh3 Rb2 36.Ra6 Kg5 37.g4 h5 38.gxh5 Kxh5 39.Kg3 Kg5 40.h4+
+Kh5 41.Kf4 b5 42.Ke4 Kxh4 43.Kd3 Rf2 44.Kc3 Rf4 45.Rb6 Rf2 46.a3 1-0
+
+
+[Event "Ch Norway"]
+[Site "Moss (Norway)"]
+[Date "2006.07.08"]
+[Round "1"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Stokke Kjetil (NOR)"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2675"]
+[BlackElo "2302"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6
+8.Re1 c6 9.Bf1 exd4 10.Nxd4 Ng4 11.h3 Qb6 12.hxg4 Qxd4 13.g5
+Qxd1 14.Rxd1 Nc5 15.f3 Be5 16.Be3 a5 17.Rac1 a4 18.Rc2 Ne6 19.Ne2
+Nc5 20.Nc1 Re8 21.Nd3 Nxd3 22.Rxd3 f5 23.gxf6 Re6 24.Bg5 Kf7
+25.Rcd2 Ra5 26.Be3 Rxf6 27.Bb6 Ra8 28.Bc7 Bf4 29.Rd1 Ke7 30.c5
+dxc5 31.Bd8+ Kf7 32.Bxf6 Kxf6 33.g3 Be5 34.Rd8 Ke7 35.Bh3 Bxh3
+36.Rxa8 Bxg3 37.Rh8 Be6 38.Rxh7+ Bf7 39.Rxf7+ 1-0
+
+
+[Event "Ch Norway"]
+[Site "Moss (Norway)"]
+[Date "2006.07.10"]
+[Round "3"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Lie Kjetil A (NOR)"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2675"]
+[BlackElo "2523"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.Nc3 Nc6 6.Be3 Nf6 7.Bc4
+Qa5 8.O-O O-O 9.Bb3 d6 10.h3 Bd7 11.Qe1 Rfe8 12.Rd1 Rac8 13.f4
+Nd8 14.Bf2 e5 15.fxe5 Qxe5 16.Nf3 Qh5 17.Rxd6 Bxh3 18.gxh3 Qxf3
+19.Bg3 Qh5 20.Rdxf6 Bxf6 21.Rxf6 Qxh3 22.Qf2 Ne6 23.Nd5 Ng5 24.Rxf7
+Rxc2 25.Ne7+ Kh8 26.Be5# 1-0
+
+
+[Event "Ch Norway"]
+[Site "Moss (Norway)"]
+[Date "2006.07.11"]
+[Round "5"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Bae Torstein (NOR)"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2675"]
+[BlackElo "2284"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3
+Bd6 8.Qe2 h6 9.Ne4 Nxe4 10.Qxe4 Qc7 11.O-O b6 12.Qg4 Kf8 13.b3
+Bb7 14.Bb2 Nf6 15.Qh4 c5 16.dxc5 Qxc5 17.Bd4 Qc7 18.Bxf6 Bxf3
+19.Bb2 Bb7 20.Rfe1 Qe7 21.Qd4 e5 22.Qg4 h5 23.Qf5 g6 24.Qh3 Qg5
+25.Rad1 Rd8 26.Bf1 Bc8 27.Qc3 Qe7 28.Rxe5 Bxe5 29.Ba3 Kg7 30.Bxe7
+Bxc3 31.Bxd8 Bf5 32.Bg5 Rc8 33.Bd3 Bxd3 34.Rxd3 Bf6 35.Bxf6+
+Kxf6 36.c3 b5 37.Kf1 Rc6 38.Ke2 Ke5 39.Kd1 g5 40.Kc2 f5 41.Rd4
+g4 42.Kd3 h4 43.a4 a6 44.axb5 axb5 45.Rb4 Rc5 46.h3 gxh3 47.gxh3
+f4 48.f3 Kf5 49.c4 bxc4+ 50.bxc4 Rc8 51.Rb5+ Kg6 52.c5 Kf5 53.Kc4 1-0
+
+
+[Event "Ch Norway"]
+[Site "Moss (Norway)"]
+[Date "2006.07.13"]
+[Round "7"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Agdestein Simen (NOR)"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2675"]
+[BlackElo "2575"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qa5 7.Bd2
+Qa4 8.Qg4 g6 9.Qd1 b6 10.h4 h5 11.c4 Nc6 12.Nf3 Nge7 13.dxc5
+bxc5 14.Be2 dxc4 15.O-O Nd5 16.Bg5 Ba6 17.Re1 c3 18.Bd3 Bxd3
+19.Qxd3 Rb8 20.Re4 Qb5 21.Qd1 Qb6 22.a4 Qc7 23.Qe2 Kd7 24.Rd1
+Kc8 25.Be3 Na5 26.Ng5 Rd8 27.Qa6+ Rb7 28.Nxf7 Qxf7 29.Bxc5 Kb8
+30.Qxa5 Rc8 31.Rc4 Qe8 32.Qa6 Nb6 33.Rxc3 Ka8 34.Bxb6 1-0
+
+
+[Event "It (cat.17)"]
+[Site "Biel (Switzerland)"]
+[Date "2006.07.25"]
+[Round "2"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Morozevich Alexander (RUS)"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2675"]
+[BlackElo "2731"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6
+8.d5 Ne7 9.a4 a5 10.b3 Nd7 11.Ba3 Bh6 12.b4 axb4 13.Bxb4 f5 14.Nd2
+Kh8 15.a5 Rf7 16.Nb5 Nf6 17.c5 dxc5 18.Bc3 c6 19.dxc6 bxc6 20.Na3
+fxe4 21.Nac4 Ned5 22.Bxe5 Bg7 23.Nd6 Re7 24.N2c4 Be6 25.a6 Nb4
+26.Qc1 Nd3 27.Bxd3 exd3 28.Qc3 Bxc4 29.Qxc4 Qg8 30.Qxc5 d2 31.Rad1
+Rxa6 32.Rxd2 Nd5 33.Bxg7+ Rxg7 34.h3 Qe6 35.Rb1 h6 36.Qc4 Rb6
+37.Rxb6 Qe1+ 38.Kh2 Nxb6 39.Qf4 Nd5 40.Rxd5 cxd5 41.Qf8+ Kh7
+42.Ne8 1-0
+
+
+[Event "It (cat.17)"]
+[Site "Biel (Switzerland)"]
+[Date "2006.08.03"]
+[Round "10"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Bruzon Lazaro (CUB)"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2675"]
+[BlackElo "2667"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3 O-O
+8.Nbd2 b5 9.Bc2 Bb7 10.Re1 Re8 11.Nf1 Bf8 12.Bg5 h6 13.Bh4 Nb8
+14.Ne3 Nbd7 15.a4 g6 16.b4 Bg7 17.Bb3 c6 18.g4 Qc8 19.g5 Nh7
+20.gxh6 Bxh6 21.Kh1 Ndf6 22.Rg1 Kf8 23.Ng5 Nxg5 24.Bxg5 Bxg5
+25.Rxg5 Qh3 26.Rg3 Qh5 27.Qf1 Ke7 28.f4 Rh8 29.Ra2 Rh7 30.f5
+g5 31.Qg2 c5 32.axb5 axb5 33.Rxa8 Bxa8 34.Qa2 c4 35.Bd1 Qh4 36.Qa7+
+Kf8 37.Qxa8+ Kg7 38.Nf1 cxd3 39.Bf3 d2 40.Kg1 Nxe4 41.Qd5 Nxg3
+42.f6+ Kxf6 43.Qxd6+ Kg7 44.Qxe5+ f6 45.Qe7+ Kg6 46.Qe8+ Kg7
+47.hxg3 Qc4 48.Qe7+ Kg8 49.Qd8+ 1-0
+
+
+[Event "It (sheveningen)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "2006.08.23"]
+[Round "5"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Andersson Ulf (SWE)"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2675"]
+[BlackElo "2542"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 Be7 7.Nxf6+
+Nxf6 8.Bd3 c5 9.dxc5 Qa5+ 10.c3 Qxc5 11.O-O Bd7 12.Re1 Ng4 13.Bxe7
+Qxf2+ 14.Kh1 Kxe7 15.Re2 Qc5 16.Qe1 Rad8 17.Qh4+ Nf6 18.Nd4 Bc6
+19.Rf1 Rhg8 20.Qg3 Kd7 21.Bxh7 Rh8 22.Bg6 1-0
+
+
+[Event "It (sheveningen)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "2006.08.26"]
+[Round "7"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Nunn John D M (ENG)"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2675"]
+[BlackElo "2617"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 a6 6.Be3 e5 7.Nf3
+Be7 8.Bc4 O-O 9.O-O Be6 10.Bb3 Nc6 11.Qe2 Na5 12.Rfd1 Nxb3 13.cxb3
+Qe8 14.Ne1 h6 15.Nc2 Qd7 16.Nb4 Rfc8 17.f3 Bd8 18.Rd3 a5 19.Nbd5
+Nxd5 20.Nxd5 a4 21.bxa4 Rxa4 22.b3 Ra6 23.Rad1 Ra5 24.Nb6 Bxb6
+25.Bxb6 Ra6 26.Rxd6 Qe7 27.Qb2 Qg5 28.a4 h5 29.a5 h4 30.b4 Raa8
+31.Qd2 Qxd2 32.R1xd2 Rc4 33.Bc5 Rc8 34.Rb6 Rc7 35.Kf2 Kh7 36.Bd6
+Rd7 37.Ke3 f6 38.Bxe5 fxe5 39.Rxe6 Rxd2 40.Kxd2 Rxb4 41.Rxe5
+Rb2+ 42.Kc3 Rxg2 43.Rh5+ Kg6 44.Rxh4 Ra2 45.Kb4 1-0
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "5"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Gurevich Dmitry (USA)"]
+[Result "1-0"]
+[ECO "B60"]
+[WhiteElo "2675"]
+[BlackElo "2507"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6 7.Bxf6
+exf6 8.Bc4 Bg7 9.Ndb5 O-O 10.Qxd6 f5 11.O-O-O Qa5 12.Qc7 Bxc3
+13.bxc3 a6 14.Rd8 Qxc7 15.Rxf8+ Kxf8 16.Nxc7 Ra7 17.Bd3 b5 18.Nd5
+Be6 19.Kb2 Ne5 20.Nf4 Bc4 21.exf5 g5 22.Re1 Re7 23.Ne6+ Bxe6
+24.Rxe5 Bc8 25.Rc5 Bb7 26.f6 Re6 27.Rxg5 h6 28.Rc5 Rxf6 29.f3
+Rd6 30.c4 bxc4 31.Rxc4 Kg7 32.Rb4 Bc8 33.a4 Kf6 34.Rf4+ Ke7 35.Kc3
+Rc6+ 36.Rc4 1-0
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "14"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Livshits Gaby (ISR)"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2675"]
+[BlackElo "2406"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Nc3 cxd4 5.Nxd4 Nc6 6.Be3 Nf6 7.Bc4
+O-O 8.Bb3 a5 9.O-O a4 10.Nxa4 Nxe4 11.Nb5 d5 12.c3 e6 13.Nc5
+Nd6 14.Nxd6 Qxd6 15.Qd2 Rd8 16.Rad1 b6 17.Ne4 Qc7 18.Ng5 Ne5
+19.f4 Nc4 20.Bxc4 Qxc4 21.a3 Qc7 22.Qf2 Rb8 23.Rfe1 Ba6 24.Bd4
+Bxd4 25.Rxd4 h6 26.Nf3 Qe7 27.Ne5 Rbc8 28.Qg3 Kh7 29.Re3 Qf6
+30.Ng4 Qf5 31.h3 Rc4 32.Qh4 Rxd4 33.cxd4 Rh8 34.Re5 Qb1+ 35.Re1
+Qf5 36.Nxh6 Qh5 37.Qxh5 gxh5 38.Nxf7 Rc8 39.Rxe6 Rc2 40.Ng5+
+Kg7 41.f5 Bb5 42.f6+ Kf8 43.Rxb6 Rc1+ 44.Kh2 Bd7 45.Rb8+ 1-0
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "8"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2675"]
+[BlackElo "2710"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 d5 4.e3 Bf5 5.f3 Nf6 6.c4 e6 7.Nc3 Bb4
+8.Qb3 Nc6 9.a3 Bxc3+ 10.Qxc3 O-O 11.Ne2 Bg6 12.h4 Re8 13.g4 dxc4
+14.e4 Nxe4 15.fxe4 Bxe4 16.Rh2 Bd3 17.O-O-O Ne7 18.Qd2 Nd5 19.Nc3
+Bxf1 20.Rxf1 b5 21.g5 a5 22.Nxb5 Rb8 23.Nc3 Rb3 24.Nxd5 Qxd5
+25.Be5 Reb8 26.Qf4 Qd7 27.Rc2 c3 28.bxc3 Rxa3 29.Kd2 a4 30.h5
+Rab3 31.h6 Rb2 32.hxg7 Rxc2+ 33.Kxc2 a3 34.g6 Rb2+ 35.Kc1 hxg6
+36.Rh1 Rb1+ 37.Kxb1 Qb5+ 38.Kc2 Qe2+ 39.Kb3 Qb2+ 40.Kc4 Qe2+
+41.Kb4 Qb2+ 42.Ka4 Qc2+ 43.Kb4 Qb2+ 44.Kc4 Qa2+ 45.Kd3 1-0
+
+
+[Event "Ch Norway (play-off)"]
+[Site "Oslo (Norway)"]
+[Date "2006.09.21"]
+[Round "4"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Agdestein Simen (NOR)"]
+[Result "1-0"]
+[ECO "C76"]
+[WhiteElo "2675"]
+[BlackElo "2575"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.c3 a6 5.Ba4 d6 6.d4 Bd7 7.dxe5 b5
+8.Bb3 dxe5 9.Qd5 Qf6 10.Nxe5 Nxe5 11.Qxa8+ Ke7 12.Be3 Bc6 13.Bc5+
+Kd7 14.Qxf8 Nh6 15.Qxh6 Nd3+ 16.Ke2 Nxc5 17.f3 Re8 18.Nd2 Kc8
+19.Qe3 Qe7 20.Rhd1 f5 21.Kf1 g5 22.Kg1 f4 23.Qe2 h5 24.Bc2 Nd7
+25.a4 Ne5 26.axb5 axb5 27.Nb3 g4 28.Nd4 Qc5 29.Kh1 1-0
+
+
+[Event "KO"]
+[Site "Cap d'Agde FRA"]
+[Date "2006.10.31"]
+[Round "1.1"]
+[White "Carlsen, Magnus"]
+[Black "Fressinet, Laurent"]
+[Result "1-0"]
+[WhiteElo "2698"]
+[BlackElo "2640"]
+[ECO "C82"]
+[EventDate "2006.10.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+ dxe5 Be6 9. Nbd2 Bc5 10. c3 O-O 11. Bc2 Bf5 12. Nb3 Bg6 13. Nfd4 Bxd4 14.
+ cxd4 a5 15. Be3 a4 16. Nd2 f6 17. exf6 Qxf6 18. Rc1 Rae8 19. Nxe4 Bxe4 
+20. Bxe4 Rxe4 21. Qd3 Kh8 22. f3 Re6 23. Bf2 Qf4 24. Rfd1 Rb8 25. Rc5 Nb4 
+26. Rxb5 c6 27. Qf5 1-0
+
+
+[Event "Bundesliga 2006-7"]
+[Site "Bonn GER"]
+[Date "2006.12.09"]
+[Round "5"]
+[White "Carlsen, Magnus"]
+[Black "Socko, Bartosz"]
+[Result "1-0"]
+[WhiteElo "2698"]
+[BlackElo "2630"]
+[ECO "C95"]
+[EventDate "2006.10.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+ c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. b3 Bg7 16. d5 Qe7 17. c4 Qf8 18. Be3 Bh6 19. Bxh6 Qxh6 20. cxb5 
+axb5 21. b4 Rec8 22. Bb3 c5 23. dxc6 Rxc6 24. Qd3 Ba6 25. Nf1 Rac8 26. Ne3
+Qf4 27. Qd1 h6 28. h4 Kg7 29. Bd5 Nxd5 30. Nxd5 Qg4 31. Ne7 Nf6 32. Nxc6 
+Rxc6 33. a4 Bb7 34. axb5 Rb6 35. Nd2 Qxh4 36. Qe2 d5 37. Nf3 Qh5 38. exd5 
+e4 39. Nd2 Ng4 40. Qxe4 Rf6 41. Qd4 Nxf2 42. Nf3 Nh3+ 43. Kf1 Ng5 44. Re3 
+Bxd5 45. Ra6 Ne6 46. Qc3 Qh1+ 47. Kf2 g5 48. Ra1 Qh4+ 49. Kg1 Bxf3 50. 
+Rxf3 Nd4 51. Re3 Qf2+ 52. Kh2 Nxb5 53. Qe5 Qh4+ 54. Kg1 Qf2+ 55. Kh1 Kg6 
+56. Rh3 Nd6 57. Ra8 Nf5 58. Rg8+ Kh7 59. Rxg5 Ne3 60. Qg3 Qf1+ 61. Kh2 Nf5
+62. Qe5 1-0
+
+
+[Event "GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2006.10.28"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2698"]
+[BlackElo "2579"]
+[ECO "B48"]
+[EventDate "2006.10.27"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Bd3 Nf6 
+8. O-O Ne5 9. h3 Bc5 10. Kh1 d6 11. f4 Ng6 12. Qe1 O-O 13. f5 Ne5 14. Qh4 
+b5 15. Rf3 exf5 16. exf5 Nxf3 17. gxf3 Bb7 18. Rg1 Bxf3+ 19. Nxf3 Bxe3 20.
+ Qxf6 Bxg1 21. Qg5 Qc6 22. Ne4 f6 23. Qxg1 Rae8 24. Qd4 d5 25. Nc5 Re7 26.
+ Kg2 g6 27. Ne6 Rxe6 28. fxe6 Qxe6 29. a4 bxa4 30. Qxa4 Rb8 31. b3 Rb6 32.
+ Qa5 Kg7 33. Nd4 Qd6 34. c3 h5 35. h4 Kh6 36. b4 Rb8 37. Qxa6 Qf4 38. Nf5+
+1-0
+
+
+[Event "Midnight Sun"]
+[Site "Tromso NOR"]
+[Date "2006.06.24"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Hobber,A"]
+[Result "1-0"]
+[WhiteElo "2646"]
+[BlackElo "1926"]
+[EventDate "2006.06.24"]
+[ECO "C10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2 Nxe4 7. Bxe4
+Nf6 8. Bxb7 Bxb7 9. Qb5+ Qd7 10. Qxb7 Qd5 11. Qxd5 exd5 12. Bf4 Bd6 13.
+Bxd6 cxd6 14. Ne2 Kd7 15. f3 Rab8 16. b3 Rhc8 17. Kd2 Re8 18. Rae1 Re7 19.
+Nf4 Rxe1 20. Rxe1 Re8 21. Rxe8 Kxe8 22. h4 Kd7 23. g4 Kc6 24. Kc3 h6 25.
+Kb4 Nd7 26. Ka5 1-0

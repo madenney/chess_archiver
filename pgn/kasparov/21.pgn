@@ -1,0 +1,571 @@
+[Event "It (cat.17)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kasparov Garry (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2785"]
+[BlackElo "2735"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3
+Be7 8.c5 h6 9.Bf4 Ne4 10.Bb5 Nxc3 11.bxc3 Bd7 12.O-O O-O 13.Rc1
+Re8 14.Re1 Bf6 15.Rb1 b6 16.Ba6 Bc8 17.Bb5 Bd7 18.Ba6 Bc8 19.Bd3
+bxc5 20.Ne5 Bd7 21.Rb7 Bxe5 22.dxe5 Rb8 23.Rxb8 Qxb8 24.Qg4 Kf8
+25.Re3 Qd8 26.h4 Qa5 27.Rg3 Ke7 28.Qxg7 Kd8 29.Qxf7 Qxc3 30.Bb5
+Qa5 31.Rg7 Ne7 32.Bxd7 Kxd7 33.Qf6 d4 34.Bxh6 c4 35.Bg5 Qc5 36.Rxe7+ 1-0
+
+
+[Event "It (cat.17)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Kasparov Garry (RUS)"]
+[Black "Gelfand Boris (ISR)"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2785"]
+[BlackElo "2665"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3
+Be7 8.O-O O-O 9.Kh1 Nc6 10.f4 a5 11.a4 Nb4 12.Bf3 Qb6 13.g4 exf4
+14.Bxf4 Nd7 15.Nd4 g6 16.Bh6 Re8 17.Nf5 gxf5 18.gxf5 Bf6 19.Rg1+
+Kh8 20.Qd2 Ne5 21.Qg2 Ng6 22.fxg6 fxg6 23.Rgf1 Bg7 24.Bxg7+ Kxg7
+25.Rad1 Bd7 26.Qg3 Re5 27.Bg2 Nxc2 28.Nd5 Qd8 29.Qf2 Nb4 30.Nb6
+Bg4 31.Qf7+ Kh8 32.Nxa8 Bxd1 33.Rxd1 Qxa8 34.Qf6+ Kg8 35.Rxd6
+Re8 36.Rd7 1-0
+
+
+[Event "It (cat.17)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Kasparov Garry (RUS)"]
+[Black "Kramnik Vladimir (RUS)"]
+[Result "1-0"]
+[ECO "B63"]
+[WhiteElo "2785"]
+[BlackElo "2765"]
+[Annotator ""]
+[Source ""]
+[Remark "III"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.Qd2
+Be7 8.O-O-O Nxd4 9.Qxd4 a6 10.f4 b5 11.Bxf6 gxf6 12.Bd3 Qc7 13.Qe3
+Qc5 14.Qg3 b4 15.Ne2 a5 16.Kb1 Kf8 17.Qh3 h5 18.Rc1 d5 19.exd5
+Qxd5 20.f5 a4 21.Rhe1 Rb8 22.Nf4 Qd6 23.Qf3 e5 24.Nd5 Bd8 25.Be4
+Qc5 26.c3 bxc3 27.Rxc3 Qd6 28.Rd1 Bb6 29.Nxb6 Qxb6 30.Rc2 Kg7
+31.a3 Kh6 32.Rdd2 Bb7 33.Bxb7 Qxb7 34.Rc6 Rhc8 35.Rxf6+ Kg5 36.Rxf7
+Qxf3 37.gxf3 Rc3 38.Rg2+ Kf4 39.f6 Rxf3 40.Re7 Rf8 41.f7 Kf5
+42.Rg8 Kf6 43.Rxe5 1-0
+
+
+[Event "It (cat.17)"]
+[Site "Amsterdam (Netherlands)"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Kasparov Garry (RUS)"]
+[Black "Seirawan Yasser (USA)"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2785"]
+[BlackElo "2630"]
+[Annotator "Kodinets Konstantin L (RUS)"]
+[Source ""]
+[Remark "III"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.Qc2 dxc4 6.e4 c5 7.dxc5
+Bxc5 8.Bxc4 a6 9.a4 Qc7 10.O-O Ng4 11.h3 Nxf2 12.Rxf2 Bxf2+ 13.Qxf2
+Qxc4 14.Qg3 f6 15.Qxg7 Qc5+ 16.Kh1 Qf8 17.Qg4 Qf7 18.e5 Rg8 19.Qc4
+f5 20.Bg5 h6 21.Bh4 Qg6 22.Rg1 Nf8 23.Qb4 Rg7 24.Ne2 b5 25.axb5
+Rd7 26.Nf4 Qf7 27.Rc1 Bb7 28.bxa6 Bxf3 29.gxf3 Rda7 30.Rg1 Rxa6
+31.Nh5 Qc7 32.Rg7 Ra1+ 33.Kg2 Qc2+ 34.Bf2 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Balaskas Panayotis (GRE)"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2785"]
+[BlackElo "2265"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 Bxc3+ 6.bxc3 Qa5 7.Bd2
+d6 8.e4 Nbd7 9.Ne2 O-O 10.Ng3 Nb6 11.Bd3 Re8 12.O-O Qa6 13.Bg5
+Nfd7 14.f4 f6 15.e5 fxg5 16.Bxh7+ Kf8 17.Qh5 Qxc4 18.Bg6 Ke7
+19.Qxg5+ Nf6 20.Bxe8 Kxe8 21.exf6 gxf6 22.Qg8+ Ke7 23.Nf5+ exf5
+24.Rae1+ Qe4 25.Rxe4+ fxe4 26.Qg7+ Kd8 27.Qxf6+ Kc7 28.f5 Bd7
+29.Qg7 Nxd5 30.f6 e3 31.f7 e2 32.Re1 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Dragon Zygmunt (POL)"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2785"]
+[BlackElo "2240"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.e4 d6 7.Be2
+Nbd7 8.O-O O-O 9.Be3 Nc5 10.f3 Bd7 11.Qd2 Re8 12.b4 Ne6 13.Nb3
+a6 14.Rac1 b6 15.Nd5 Rb8 16.a3 Ba4 17.Nd4 Nxd4 18.Bxd4 Nxd5 19.cxd5
+Bd7 20.Bxg7 Kxg7 21.Rc3 b5 22.Qd4+ f6 23.Rfc1 Rb7 24.f4 Qb8 25.h3
+Kf7 26.Bg4 Bxg4 27.hxg4 Qa7 28.Qxa7 Rxa7 29.Rc7 Rea8 30.g5 a5
+31.gxf6 Kxf6 32.g4 h6 33.e5+ dxe5 34.R1c6+ Kf7 35.fxe5 axb4 36.axb4
+Ra1+ 37.Kf2 R1a4 38.d6 Rxb4 39.Rxe7+ Kf8 40.Rec7 Ra2+ 41.Rc2
+Rxc2+ 42.Rxc2 Re4 43.Rc8+ Kf7 44.d7 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Nathanail Emanouel (GRE)"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2785"]
+[BlackElo "2226"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6 7.Bd3
+Nbd7 8.Nge2 Nf8 9.f3 Ne6 10.Bh4 Ne4 11.Bxe7 Nxc3 12.bxc3 Qxe7
+13.O-O O-O 14.e4 g6 15.Qd2 Ng7 16.Rae1 Bd7 17.Ng3 Qd6 18.f4 f5
+19.exf5 Bxf5 20.Nxf5 Nxf5 21.Re5 Qd7 22.Rfe1 Rae8 23.Bxf5 gxf5
+24.Qd3 Rxe5 25.Rxe5 Rf6 26.h3 b5 27.Qe2 Kf8 28.Qh5 Qf7 29.Qh4
+Qg6 30.Kh2 a6 31.Qe1 Qf7 32.Qc1 Qd7 33.Qe1 Qf7 34.a4 bxa4 35.Qd1
+Re6 36.Qxa4 Rxe5 37.fxe5 Qc7 38.Qc2 Qd7 39.Qe2 Qe6 40.Qxa6 Kg7
+41.Kg3 Kf7 42.Kf4 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Trifonas Spyridon (GRE)"]
+[Result "1-0"]
+[ECO "A55"]
+[WhiteElo "2785"]
+[BlackElo "2205"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.e4 Be7 6.Be2 O-O 7.O-O
+c6 8.Be3 Re8 9.d5 Bf8 10.Nd2 a6 11.Rc1 c5 12.a3 b6 13.b4 Be7
+14.g3 Nf8 15.f3 Ng6 16.Rf2 Nd7 17.Bd3 h6 18.Bc2 Rf8 19.Rb1 Re8
+20.h4 Nf6 21.bxc5 bxc5 22.Nf1 Qc7 23.Rh2 Rd8 24.Bf2 Bd7 25.Ne3
+Rdb8 26.Be1 Rxb1 27.Bxb1 Rb8 28.Bc2 Bd8 29.Ba4 Qc8 30.Bxd7 Qxd7
+31.Na4 Ne7 32.Rb2 Rxb2 33.Nxb2 Qb7 34.Qc2 Nh5 35.Nd3 Nf6 36.Kg2
+Nd7 37.Nc1 Bc7 38.Qb3 Qxb3 39.Nxb3 g6 40.g4 Kg7 41.Bc3 f6 42.Nc1
+Kf7 43.Nd3 Bd8 44.f4 Nb6 45.h5 g5 46.fxg5 fxg5 47.Kf2 Bc7 48.Nc1
+Bd8 49.Ne2 1-0
+
+
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kasparov Garry (RUS)"]
+[Black "Shirov Alexei (ESP)"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2785"]
+[BlackElo "2685"]
+[Annotator ""]
+[Source ""]
+[Remark "V"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 c5
+8.e4 cxd4 9.exf5 Bb4 10.Bxc4 Qd6 11.Bb5+ Nc6 12.Nc4 Qc5 13.Bd2
+O-O 14.Na2 Bxd2+ 15.Qxd2 Ne7 16.Qb4 Qxb4+ 17.Nxb4 a6 18.Nb6 axb5
+19.Nxa8 Rxa8 20.fxe6 bxa4 21.exf7+ Kxf7 22.Kd2 Ke6 23.Rhc1 Kd6
+24.b3 b5 25.bxa4 bxa4 26.Rc4 Nf5 27.Nc2 Nd7 28.Rcxa4 Rxa4 29.Rxa4
+Nb6 30.Nxd4 1-0
+
+
+[Event "It \"CS Masters\" (active)"]
+[Site "Geneva (Switzerland)"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Kasparov Garry (RUS)"]
+[Black "Graf Alexander (GER)"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2785"]
+[BlackElo "2632"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 d6 5.Bxf6 exf6 6.e4 a6 7.a4 b4
+8.Bd3 g6 9.Nbd2 Bg7 10.O-O O-O 11.Nc4 a5 12.Nfd2 Qc7 13.f4 Nd7
+14.Qe1 Ba6 15.Qh4 Rfe8 16.f5 Rad8 17.Rf3 Bc8 18.Raf1 Nf8 19.Ne3
+Bd7 20.b3 h5 21.Ndc4 Bc8 22.g4 Bh6 23.gxh5 Bxe3+ 24.Nxe3 g5 25.Qf2
+Kh8 26.Ng4 Nd7 27.Rg3 Re7 28.h4 c4 29.hxg5 cxd3 30.gxf6 Rxe4
+31.Qd2 Qc5+ 32.Nf2 Re3 33.Qxe3 Qxe3 34.Rxe3 dxc2 35.Rc1 Nxf6
+36.Rxc2 Nxd5 37.Rf3 Bb7 38.Rd2 Nc3 39.Rg3 Re8 40.Kh2 d5 41.Rg5
+Ba6 42.h6 Ne4 43.Nxe4 dxe4 44.h7 e3 45.Rdg2 Re4 46.Rg8+ Kxh7
+47.R2g7+ Kh6 48.f6 1-0
+
+
+[Event "It (cat.21)"]
+[Site "Las Palmas (Spain)"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Kasparov Garry (RUS)"]
+[Black "Ivanchuk Vassily (UKR)"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2785"]
+[BlackElo "2730"]
+[Annotator "Kodinets Konstantin L (RUS)"]
+[Source ""]
+[Remark "XII"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 c6 6.O-O Bg7 7.h3 O-O
+8.exd6 exd6 9.Re1 Nc7 10.Bg5 Bf6 11.Bh6 Re8 12.Rxe8+ Nxe8 13.Bb3
+d5 14.c4 dxc4 15.Bxc4 Nd6 16.Bb3 Nf5 17.Qd2 Nd7 18.Nc3 Nxh6 19.Qxh6
+Nf8 20.Rd1 Be6 21.d5 cxd5 22.Nxd5 Rc8 23.Qe3 b6 24.Ne5 Rc5 25.Ng4
+Bxg4 26.hxg4 Kg7 27.f4 h6 28.f5 g5 29.Qe2 Nh7 30.Nxf6 Qxf6 31.Rd7
+Re5 32.Rxf7+ Qxf7 33.Qxe5+ Qf6 34.Qc7+ Kh8 35.Kh1 a5 36.Be6 1-0
+
+
+[Event "It (cat.21)"]
+[Site "Las Palmas (Spain)"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Kasparov Garry (RUS)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2785"]
+[BlackElo "2775"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5
+Bb7 8.e3 d6 9.f3 Nbd7 10.Nh3 c5 11.dxc5 bxc5 12.Be2 Qb6 13.O-O
+d5 14.Rad1 Bc6 15.Nf2 h6 16.Bh4 Ba4 17.Rd2 Bb3 18.Ng4 Nxg4 19.fxg4
+Rab8 20.g5 hxg5 21.Bxg5 Rb7 22.Be7 Re8 23.Bh4 Nf8 24.Bg3 Rd8
+25.Bh4 Rdd7 26.cxd5 Rxd5 27.e4 Rxd2 28.Qxd2 Ba4 29.Bh5 Be8 30.Bf2
+Qb5 31.Qd8 Bc6 32.Bg3 Rd7 33.Qe8 Qxf1+ 34.Kxf1 Rd1+ 35.Bxd1 Bxe8
+36.Bf2 Bb5+ 37.Be2 Bxe2+ 38.Kxe2 Nd7 39.Kd3 a6 40.Bg1 f5 41.exf5
+exf5 42.Kc4 Ne5+ 43.Kxc5 Nd3+ 44.Kb6 1-0
+
+
+[Event "It \"PCA Grand Prix\" (active)"]
+[Site "Moscow (Russia)"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kasparov Garry (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "2785"]
+[BlackElo "2735"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.f4
+Be7 8.O-O O-O 9.Be3 Qc7 10.g4 Re8 11.g5 Nfd7 12.Bd3 Nc6 13.Qh5
+g6 14.Qh4 Bf8 15.Rf3 Bg7 16.Nde2 b5 17.Rh3 Nf8 18.f5 Ne5 19.f6
+Bh8 20.a3 Rb8 21.b4 Bb7 22.Rf1 Rbc8 23.Bd4 Nc6 24.Be3 Ne5 25.Rf4
+Qd7 26.Qh6 Nxd3 27.cxd3 e5 28.Rf1 Rc7 29.Bb6 Rc6 30.Nd5 Bc8 31.Re3
+Qb7 32.Bd8 Ne6 33.Ne7+ Rxe7 34.fxe7 Qd7 35.Rh3 1-0
+
+
+[Event "It \"PCA Grand Prix\" (active)"]
+[Site "Moscow (Russia)"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Kasparov Garry (RUS)"]
+[Black "Gelfand Boris (ISR)"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2785"]
+[BlackElo "2665"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.c4 dxc4 7.Qc2
+a6 8.a4 Bd7 9.Qxc4 Bc6 10.Bf4 a5 11.Nc3 Na6 12.Rac1 Nb4 13.Rfe1
+Bd6 14.Bg5 Bd5 15.Nxd5 exd5 16.Qb3 h6 17.Bxf6 Qxf6 18.e3 Rae8
+19.Qd1 Re7 20.Rc3 Rfe8 21.Qb1 c6 22.Rd1 Qe6 23.Nd2 Na6 24.Nb3
+Bb4 25.Rcc1 Qd6 26.Qc2 Nc7 27.Nc5 Ne6 28.Nd3 Qd8 29.Nxb4 axb4
+30.h4 Qa5 31.b3 Nf8 32.Qc5 Qxc5 33.dxc5 Ne6 34.Bh3 g6 35.Bxe6
+Rxe6 36.Rd4 Re4 37.Rcd1 g5 38.hxg5 hxg5 39.Kf1 Kg7 40.Ke2 g4
+41.Rxe4 Rxe4 42.a5 Re8 43.Ra1 d4 44.Ra4 dxe3 45.Rxb4 exf2+ 46.Kxf2
+Ra8 47.Rxg4+ Kf6 48.b4 Rd8 49.Re4 Rd1 50.Re8 Rb1 51.Rb8 Rxb4
+52.a6 Ra4 53.axb7 Rb4 54.g4 Ke7 55.g5 Kd7 56.Rf8 Rxb7 57.Rxf7+ 1-0
+
+
+[Event "Simultan"]
+[Site "Rio de Janeiro (Brazil)"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Kasparov Garry (RUS)"]
+[Black "Gouveia Carlos (BRA)"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2785"]
+[BlackElo "2369"]
+[Annotator ""]
+[Source ""]
+[Remark "II"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.h3 Nf6 6.d3 Bg7 7.Nc3
+O-O 8.Be3 c4 9.O-O cxd3 10.cxd3 Qa5 11.d4 Be6 12.Qc2 h6 13.a3
+Rfd8 14.b4 Qh5 15.Ne2 Qb5 16.Nf4 Qc4 17.Qb1 Qb3 18.e5 Ne8 19.Nxe6
+Qxe6 20.b5 Rac8 21.bxc6 Qxc6 22.Qb4 Qd7 23.Rfd1 b6 24.d5 Nc7
+25.d6 exd6 26.Rxd6 Qe8 27.Rad1 Ne6 28.Qh4 Qf8 29.a4 Rxd6 30.exd6
+Rd8 31.d7 g5 32.Qe4 Qe7 33.Qb7 Nf8 34.Qxa7 Rxd7 35.Rxd7 Qxd7
+36.Qxd7 Nxd7 37.Nd2 Be5 38.Nc4 Bc7 39.g4 f6 40.Kg2 Kf7 41.Kf3
+Ke6 42.Ke4 h5 43.gxh5 f5+ 44.Kd3 f4 45.Bd4 Kf5 46.f3 1-0
+
+
+[Event "Simultan"]
+[Site "Rio de Janeiro (Brazil)"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kasparov Garry (RUS)"]
+[Black "Vescovi Giovanni (BRA)"]
+[Result "1-0"]
+[ECO "E93"]
+[WhiteElo "2785"]
+[BlackElo "2490"]
+[Annotator ""]
+[Source ""]
+[Remark "II"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.d5 Nbd7
+8.Be3 Ng4 9.Bg5 f6 10.Bh4 h5 11.h3 Nh6 12.Nd2 g5 13.Bg3 f5 14.Bxh5
+f4 15.Bh2 Nf6 16.Bf3 c6 17.Bg1 cxd5 18.cxd5 Bd7 19.Be2 a6 20.f3
+Nh5 21.Bf2 Ng3 22.Rg1 b5 23.Bd3 Qb8 24.Ne2 Nh5 25.b4 a5 26.a3
+a4 27.Rc1 Bf6 28.Nf1 Bd8 29.Qd2 Nf7 30.Nc3 Qb7 31.Rc2 Rb8 32.Nh2
+Ng3 33.Kd1 Kg7 34.Kc1 Bb6 35.Bxb6 Qxb6 36.Qf2 Qd4 37.Qxd4 exd4
+38.Ne2 Ne5 39.Rd1 Nxd3+ 40.Rxd3 Nxe2+ 41.Rxe2 Rbc8+ 42.Rc2 Rxc2+
+43.Kxc2 Rc8+ 44.Kb2 Rc4 45.Nf1 Kf6 46.Nd2 Ke5 47.Nxc4+ bxc4 48.Rd1
+Bb5 1-0
+
+
+[Event "Olympiad"]
+[Site "Yerevan (Armenia)"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Kasparov Garry (RUS)"]
+[Black "Hracek Zbynek (CZE)"]
+[Result "1-0"]
+[ECO "B66"]
+[WhiteElo "2785"]
+[BlackElo "2625"]
+[Annotator "Kodinets Konstantin L (RUS)"]
+[Source ""]
+[Remark "IX"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2
+a6 8.O-O-O Nxd4 9.Qxd4 Be7 10.f4 b5 11.Bxf6 gxf6 12.e5 d5 13.Kb1
+b4 14.Ne2 a5 15.Ng3 f5 16.Nh5 Rb8 17.g4 fxg4 18.f5 Rg8 19.Nf6+
+Bxf6 20.exf6 Qd6 21.Bg2 Rg5 22.Bxd5 Bd7 23.Rhe1 h6 24.fxe6 fxe6
+25.Qa7 1-0
+
+
+[Event "Olympiad"]
+[Site "Yerevan (Armenia)"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Kasparov Garry (RUS)"]
+[Black "Sokolov Ivan (NED)"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2785"]
+[BlackElo "2670"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2
+Nd5 8.c4 Ba6 9.g3 g6 10.b3 Bg7 11.Bb2 O-O 12.Bg2 Rfe8 13.O-O
+Nb6 14.Re1 d5 15.Qc2 Qc5 16.Nd2 Rad8 17.Rac1 d4 18.Nf3 d3 19.Qd2
+Bc8 20.h3 h5 21.Rcd1 Bf5 22.e6 Rxe6 23.Rxe6 Bxe6 24.Bxg7 Kxg7
+25.Qc3+ Kg8 26.Rxd3 Rxd3 27.Qxd3 Nd7 28.Qc3 Bf5 29.Nd4 Qe5 30.Qd2
+c5 31.Nxf5 Qxf5 32.Qa5 Ne5 33.Qxa7 h4 34.Qa8+ Kg7 35.Qe4 Qf6
+36.Qxh4 1-0
+
+
+[Event "Olympiad"]
+[Site "Yerevan (Armenia)"]
+[Date "1996.??.??"]
+[Round "13"]
+[White "Kasparov Garry (RUS)"]
+[Black "Yermolinsky Alex (USA)"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "2785"]
+[BlackElo "2610"]
+[Annotator ""]
+[Source ""]
+[Remark "IX"]
+
+1.d4 Nf6 2.c4 Nc6 3.Nf3 e6 4.a3 d5 5.Nc3 a6 6.cxd5 exd5 7.Bg5
+Be7 8.e3 h6 9.Bh4 O-O 10.Bd3 Be6 11.O-O Nd7 12.Bg3 Bd6 13.Rc1
+Bxg3 14.hxg3 Ne7 15.Na4 c6 16.Qc2 a5 17.b4 b5 18.Nc5 Nb6 19.bxa5
+Nc4 20.a6 Bc8 21.a4 Bxa6 22.Ra1 Qd6 23.axb5 Bxb5 24.Qc3 Qc7 25.Rfb1
+Nd6 26.Bc2 Nb7 27.Nxb7 Qxb7 28.Qc5 Rfb8 29.Ne5 Rxa1 30.Rxa1 Nc8
+31.g4 Nb6 32.Bf5 Rd8 33.Rb1 Na4 34.Qc2 Nb6 35.Bh7+ Kh8 36.Bd3
+Bxd3 37.Qxd3 f6 38.Ng6+ Kg8 39.Qf5 Re8 40.Nf4 Qc7 41.Qg6 Re7
+42.Nh5 Nd7 43.Rc1 Nf8 44.Qc2 Re6 45.Nf4 Rd6 46.Ra1 Qc8 47.Qc5
+Rd8 48.Qb6 Rd6 49.Ra7 Qxg4 50.Qb8 Rd7 51.f3 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Agistriotis Mihail (GRE)"]
+[Result "1-0"]
+[ECO "D55"]
+[WhiteElo "2785"]
+[BlackElo "2069"]
+[PlyCount "59"]
+[EventDate "1996.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 b6 8. Nf3
+Be6 9. O-O c5 10. Ne5 Nfd7 11. Bxe7 Qxe7 12. f4 Nf6 13. Qf3 Rd8 14. f5 Bc8 15.
+g4 Ne8 16. Nxd5 Rxd5 17. Qxd5 Bb7 18. Qb3 Nc6 19. Nxf7 Qxe3+ 20. Rf2 Kf8 21.
+Qe6 Qxe6 22. fxe6 Ke7 23. dxc5 bxc5 24. Bxh7 Kxe6 25. Re1+ Kd5 26. Be4+ Kc4 27.
+Bxc6 Bxc6 28. Ne5+ Kb5 29. Nxc6 Kxc6 30. Rf8 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Pandis Ippokratis (GRE)"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2785"]
+[BlackElo "2090"]
+[PlyCount "69"]
+[EventDate "1996.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d3 O-O 8. a4
+Bb7 9. Re1 d6 10. Nbd2 Na5 11. Ba2 Qd7 12. Nf1 bxa4 13. Ne3 Bc6 14. Nf5 Nb7 15.
+Nxe7+ Qxe7 16. Nh4 Bd7 17. Bg5 Qd8 18. Qf3 h6 19. Bxf6 Qxf6 20. Qxf6 gxf6 21.
+Bc4 Be6 22. Rxa4 Nc5 23. Ra5 Rfb8 24. b3 Kf8 25. Nf3 Rb4 26. Nd2 Rab8 27. Rea1
+f5 28. f3 Ke7 29. g3 h5 30. Kf2 Kf6 31. Ke2 f4 32. Kf2 Kg5 33. R5a2 Kf6 34.
+gxf4 exf4 35. d4 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Papathanasiou Panayotis (GRE)"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2785"]
+[BlackElo "2169"]
+[PlyCount "93"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 Nbd7 7. Qd2 e5 8. d5 a5
+9. Nh3 Nc5 10. Nf2 Bd7 11. g4 Qc8 12. Rg1 Kh8 13. h4 Ng8 14. h5 f6 15. Be3 g5
+16. b3 b6 17. Be2 h6 18. Bd1 Qe8 19. Bc2 Qe7 20. Ke2 Rfb8 21. a3 Nb7 22. Rgb1
+Qe8 23. b4 Bf8 24. Qd1 Be7 25. Ba4 Bxa4 26. Qxa4 Qxa4 27. Nxa4 Ra6 28. Ra2 Kg7
+29. Rba1 Rc8 30. Nc3 Bd8 31. Kd3 Rca8 32. Kc2 axb4 33. axb4 Rxa2+ 34. Rxa2
+Rxa2+ 35. Nxa2 Ne7 36. Kb3 Nc8 37. Ka4 Na7 38. Nc3 Kg8 39. Nh1 Kf7 40. Ng3 Be7
+41. Nf5 Bf8 42. Nb5 Nxb5 43. Kxb5 Nd8 44. c5 bxc5 45. bxc5 dxc5 46. Bxc5 Bg7
+47. Be7 1-0
+
+
+[Event "Simultan"]
+[Site "Corfu (Greece)"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kasparov Garry (RUS)"]
+[Black "Politis Dionisos (GRE)"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2785"]
+[BlackElo "2090"]
+[PlyCount "33"]
+[EventDate "1996.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6 8.
+Qf4 Nf5 9. Bb5 Bd6 10. Qe4+ Qe7 11. Bd2 Bd7 12. O-O-O Qxe4 13. Nxe4 Be7 14. g4
+Nd6 15. Nxd6+ Bxd6 16. Rhe1+ Be7 17. Bxc6 1-0
+
+
+[Event "Match"]
+[Site "Philadelphia (USA)"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Kasparov Garry (RUS)"]
+[Black "Computer \"]
+[Result "1-0"]
+[ECO "E04"]
+[WhiteElo "2785"]
+[PlyCount "145"]
+[EventDate "1996.??.??"]
+
+1. Nf3 d5 2. d4 e6 3. g3 c5 4. Bg2 Nc6 5. O-O Nf6 6. c4 dxc4 7. Ne5 Bd7 8. Na3
+cxd4 9. Naxc4 Bc5 10. Qb3 O-O 11. Qxb7 Nxe5 12. Nxe5 Rb8 13. Qf3 Bd6 14. Nc6
+Bxc6 15. Qxc6 e5 16. Rb1 Rb6 17. Qa4 Qb8 18. Bg5 Be7 19. b4 Bxb4 20. Bxf6 gxf6
+21. Qd7 Qc8 22. Qxa7 Rb8 23. Qa4 Bc3 24. Rxb8 Qxb8 25. Be4 Qc7 26. Qa6 Kg7 27.
+Qd3 Rb8 28. Bxh7 Rb2 29. Be4 Rxa2 30. h4 Qc8 31. Qf3 Ra1 32. Rxa1 Bxa1 33. Qh5
+Qh8 34. Qg4+ Kf8 35. Qc8+ Kg7 36. Qg4+ Kf8 37. Bd5 Ke7 38. Bc6 Kf8 39. Bd5 Ke7
+40. Qf3 Bc3 41. Bc4 Qc8 42. Qd5 Qe6 43. Qb5 Qd7 44. Qc5+ Qd6 45. Qa7+ Qd7 46.
+Qa8 Qc7 47. Qa3+ Qd6 48. Qa2 f5 49. Bxf7 e4 50. Bh5 Qf6 51. Qa3+ Kd7 52. Qa7+
+Kd8 53. Qb8+ Kd7 54. Be8+ Ke7 55. Bb5 Bd2 56. Qc7+ Kf8 57. Bc4 Bc3 58. Kg2 Be1
+59. Kf1 Bc3 60. f4 exf3 61. exf3 Bd2 62. f4 Ke8 63. Qc8+ Ke7 64. Qc5+ Kd8 65.
+Bd3 Be3 66. Qxf5 Qc6 67. Qf8+ Kc7 68. Qe7+ Kc8 69. Bf5+ Kb8 70. Qd8+ Kb7 71.
+Qd7+ Qxd7 72. Bxd7 Kc7 73. Bb5 1-0
+
+
+[Event "Novgorod RUS"]
+[Site "Novgorod RUS"]
+[Date "1997.??.??"]
+[Round "9"]
+[White "Kasparov, Garry"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2795"]
+[BlackElo "2740"]
+[ECO "B66"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 d6 6. Bg5 e6 7. Qd2 a6 
+8. O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Bxd4 b5 12. Kb1 Bb7 13. Bd3 O-O 14.
+ e5 dxe5 15. fxe5 Nd7 16. Ne4 Bxe4 17. Bxe4 Rb8 18. c3 Qc7 19. Bc2 Rfd8 
+20. Qf4 Nf8 21. Rhf1 Bg5 22. Qf2 Rd7 23. Bc5 Rc8 24. Bd6 Qd8 25. Rd4 Qe8 
+26. h4 Be7 27. g4 Bxd6 28. exd6 Rc6 29. g5 e5 30. Rd5 Rcxd6 31. Rxd6 Rxd6 
+32. c4 Nh7 33. Bd3 h5 34. Qf4 Qc8 35. Qf2 Rd8 36. Qa7 f5 37. Qe3 Nxg5 38. 
+a3 Rd5 39. Rf3 Qc7 40. c5 Rxd3 41. Qf2 Rb3 1/2-1/2
