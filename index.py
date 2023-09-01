@@ -2,6 +2,7 @@ import os
 import sys
 import time
 import signal
+from datetime import datetime
 import pyperclip
 import subprocess
 
@@ -10,6 +11,7 @@ import asyncio
 import pyautogui
 
 import numpy as np
+import common as c
 
 from pgn_parser import parser, pgn
 
@@ -22,12 +24,23 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+from PIL import Image, ImageOps, ImageDraw, ImageFont
+
+
+TIME_PER_MOVE = 0.08
+MIN_MOVES = 70
+PRE_GAME_PAUSE = 0.2
+POST_GAME_PAUSE = 0.5
+SHUFFLE = True
 
 GECKODRIVER_PATH = '/home/matt/Projects/charkiver/geckodriver'
 AUDIO_SOURCE = 'alsa_output.usb-Razer_Razer_BlackShark_V2_Pro-00.analog-stereo.monitor'
+RECORDING_COORDS = [260,767]
+WINDOW_WIDTH = 728
+WINDOW_HEIGHT = 748
 
 def set_up_window(game):
-    driver = webdriver.Firefox(executable_path='/home/matt/Projects/charkiver/geckodriver')
+    driver = webdriver.Firefox(executable_path=GECKODRIVER_PATH)
 
     # open page and move to top left
     driver.get("https://www.chess.com/analysis?tab=analysis")
@@ -54,7 +67,7 @@ def set_up_window(game):
     # change game replay settings
     settings_button = driver.find_element(By.ID, 'board-controls-settings')
     settings_button.click()
-
+    time.sleep(0.25)
     select_dropdown = driver.find_element(By.ID, "settings-analysis-engine-name")
     select_dropdown.click()
 
@@ -68,31 +81,22 @@ def set_up_window(game):
 
 
 def start_recording_process(file_name):
-    cmd = ['ffmpeg','-f','x11grab','-s','728x728','-r','30','-i',':1.0+260,805','-f','pulse','-i',AUDIO_SOURCE,'-c:v','h264', file_name]
-    #cmd = ['ffmpeg','-video_size','728x728','-framerate','30','-f','x11grab','-i',':1.0+260,805','-f','pulse','-ac','2','-i',AUDIO_SOURCE,file_name]
-    cmd = ['ffmpeg','-thread_queue_size','1024', '-f','x11grab','-s','728x728','-r','60','-i',':1.0+260,805','-f','pulse','-ac','2','-i',AUDIO_SOURCE,'-vcodec','libx264', '-crf', '0','-x264-params','keyint=1',file_name]
-#     s = 'ffmpeg -f x11grab -s 728x728 -r 60 -i :1.0+260,805 -f alsa -i hw:0,1,2,3 -c:v h264 -b:v 15000k -c:a aac -b:a 192k output.mp4'
-# #     cmd = ['ffmpeg','-f','alsa','-ac','2','-i','pulse','-f','x11grab','-r','25','-s','1366x768','-i',':0.0','\
-# # -vcodec','libx264','-pix_fmt','yuv420p','-preset','ultrafast','-crf','0','-threads','0','\
-# # -acodec','pcm_s16le','-y', file_name]
-    print(" ".join(cmd))
+    r = RECORDING_COORDS
+    cmd = ['ffmpeg','-thread_queue_size','1024', '-f','x11grab','-s',\
+        f'{WINDOW_WIDTH}x{WINDOW_HEIGHT}','-r','60','-i',f':1.0+{r[0]},{r[1]}',\
+        '-f','pulse','-ac','2','-i',AUDIO_SOURCE,'-vcodec','libx264', \
+        '-crf', '0','-x264-params','keyint=1',file_name]
+
+    # print(" ".join(cmd))
     return subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
 
-def play_game(driver, game):
-    # pyautogui.moveTo(1235,1510)
-    # for move in game.mainline():
-    #     time.sleep(0.2)
-    #     pyautogui.click()
-    
+def play_game(driver, game): 
     actions = ActionChains(driver)
     for move in game.mainline():
-        time.sleep(0.05)
+        time.sleep(TIME_PER_MOVE)
         actions.send_keys(Keys.ARROW_RIGHT)
         actions.perform()
-
-
-
 
 def read_pgn_file(path, counter):
     counter[0] += 1
@@ -122,7 +126,7 @@ def filter_game(game):
     move_count = 0
     for move in game.mainline():
         move_count += 1
-    if move_count < 3:
+    if move_count < MIN_MOVES:
         return False
 
     # only victories
@@ -139,47 +143,50 @@ def filter_game(game):
 def filter_games(games):
     return list( filter( filter_game, games))
 
-def create_output_dir(output_dir):
-    dir_name = 'output'
-    count = 0
-    while(dir_name in os.listdir(output_dir)):
-        count += 1
-        dir_name = 'output' + str(count)
-
-    final_path = output_dir + "/" + dir_name
-    os.mkdir(final_path)
-    return final_path
-
-def float_to_hhmmssms(seconds):
-    hours = int(seconds // 3600)
-    seconds %= 3600
-    minutes = int(seconds // 60)
-    seconds %= 60
-    milliseconds = int((seconds - int(seconds)) * 1000)
+def add_overlay(index, video_path, info):
     
-    return f"{hours:02d}:{minutes:02d}:{int(seconds):02d}.{milliseconds:03d}"
+    image = Image.new("RGBA", (WINDOW_WIDTH, WINDOW_HEIGHT), color=(0,0,0,0))
+    draw = ImageDraw.Draw(image)
+    
+    draw.rectangle([0,WINDOW_HEIGHT-20,WINDOW_WIDTH,WINDOW_HEIGHT],fill=(0,0,0))
+    font = ImageFont.truetype("./assets/cour_bold.ttf", 14)
+    text_color = (255, 255, 255)  # White
+    player_text_position = (20, WINDOW_HEIGHT - 15)
+    player_text = f'W - {info["white"]} ({info["white_elo"]})   vs   B - {info["black"]} ({info["black_elo"]})'
+    date_text_position = (WINDOW_WIDTH - 90, WINDOW_HEIGHT - 16)
+    draw.text(player_text_position, player_text, fill=text_color, font=font)
+    draw.text(date_text_position, info["date"], fill=text_color, font=font )
 
-def get_length(filename):
-    result = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
-                             "format=duration", "-of",
-                             "default=noprint_wrappers=1:nokey=1", filename],
-        stdout=subprocess.PIPE,
-        stderr=subprocess.STDOUT)
-    return float(result.stdout)
+    image_path = os.path.join(os.path.dirname(video_path),f"{str(index)}.png")
+    output_path = os.path.join(os.path.dirname(video_path),f"{str(index)}.mkv")
+    image.save(image_path)
 
-def trim_file(file_name, new_file_name, desired_video_length):
-    print("desired video length: ", desired_video_length)
-    trim_time = float_to_hhmmssms( desired_video_length )
-    print('trim -> ', trim_time)
-    cmd = ['ffmpeg', '-i', file_name, '-ss', '0', '-t', trim_time, '-c', 'copy', new_file_name]
-    subprocess.run(cmd,stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    overlay_cmd = ['ffmpeg', '-i', video_path, '-i', image_path, '-b:v', '15000k', \
+        '-filter_complex', '[0:v][1:v]overlay', output_path ]
+    # print(" ".join(overlay_cmd))
+    subprocess.run(overlay_cmd,stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    os.remove(video_path)
+    os.remove(image_path)
+
+def extract_game_info(game):
+    info = {}
+    info["white"] = game.headers["White"]
+    info["black"] = game.headers["Black"]
+    info["white_elo"] = game.headers["WhiteElo"]
+    info["black_elo"] = game.headers["BlackElo"]
+
+    date = game.headers["Date"]
+    if '??.??' in date:
+        info["date"] = date[0:date.find(".")]
+    else:
+        date_obj = datetime.strptime(date, '%Y.%m.%d')
+        info["date"] = date_obj.strftime('%m/%d/%Y')
+
+    # info["time_control"] = game.headers["TimeControl"]
+    return info
+    
 
 async def main():
-
-    pre_game_pause = 0.3
-    post_game_pause = 1
-    buffer_time = 5
-    shuffle = True
 
     if len(sys.argv) < 3:
         print("Usage: python3 index.py <file_or_directory> <output_dir> <?limit>")
@@ -210,10 +217,10 @@ async def main():
     games = filter_games(games)
     print("Filtered Games: ", len(games))
 
-    if shuffle:
+    if SHUFFLE:
         np.random.shuffle(games)
 
-    output_dir = create_output_dir(output_dir_path)
+    output_dir = c.create_output_dir(output_dir_path)
     print("Output Dir: ", output_dir)
     count = 1
     for game in games:
@@ -222,26 +229,25 @@ async def main():
         print("Game #", count)
         
         try:
+            game_info = extract_game_info(game)
+
             print("- setting up window")
             driver = set_up_window(game)
 
-            file_name = output_dir + "/" + str(count) + ".mkv"
+            file_name = output_dir + "/" + str(count) + "-pre-overlay.mkv"
             recording_process = start_recording_process(file_name)
-            start_time = time.time()
             print("- pre game pause")
-            await asyncio.sleep(pre_game_pause)
+            await asyncio.sleep(PRE_GAME_PAUSE)
             print("- playing game")
             play_game( driver, game )
             print("- end game pause")
-            await asyncio.sleep(post_game_pause)
+            await asyncio.sleep(POST_GAME_PAUSE)
             #await asyncio.sleep(buffer_time)
             recording_process.send_signal(signal.SIGINT)
             recording_process.kill()
-            new_file_name = output_dir + "/" + str(count) + ".mkv"
-            #print("- trimming file")
-            #trim_file(file_name, new_file_name, time.time() - start_time)
-            #os.remove(file_name)
             driver.close()
+
+            add_overlay(count, file_name, game_info)
             count += 1
         except Exception as e:
             print("Exception: ", e)
