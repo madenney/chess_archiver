@@ -2,3 +2,6 @@ ffmpeg -f pulse -ac 2 -i alsa_output.usb-Razer_Razer_BlackShark_V2_Pro-00.analog
 
 
 ffmpeg -video_size 728x728 -framerate 60 -f x11grab -i :1.0+260,805 -f pulse -ac 2 -i alsa_output.usb-Razer_Razer_BlackShark_V2_Pro-00.analog-stereo.monitor output.avi
+
+
+printf "file '%s'\n" * > file.txt
